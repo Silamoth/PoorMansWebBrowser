@@ -1,0 +1,9 @@
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Browser GUI\Poor Mans Web Browser GUI\bin\Debug\Poor Mans Web Browser GUI.exe.config
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Browser GUI\Poor Mans Web Browser GUI\bin\Debug\Poor Mans Web Browser GUI.exe
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Browser GUI\Poor Mans Web Browser GUI\bin\Debug\Poor Mans Web Browser GUI.pdb
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Browser GUI\Poor Mans Web Browser GUI\obj\Debug\Poor Mans Web Browser GUI.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Browser GUI\Poor Mans Web Browser GUI\obj\Debug\Poor_Mans_Web_Browser_GUI.MainForm.resources
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Browser GUI\Poor Mans Web Browser GUI\obj\Debug\Poor_Mans_Web_Browser_GUI.Properties.Resources.resources
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Browser GUI\Poor Mans Web Browser GUI\obj\Debug\Poor Mans Web Browser GUI.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Browser GUI\Poor Mans Web Browser GUI\obj\Debug\Poor Mans Web Browser GUI.exe
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Browser GUI\Poor Mans Web Browser GUI\obj\Debug\Poor Mans Web Browser GUI.pdb
